@@ -1,0 +1,16 @@
+body {
+  background-color: #f0cb90;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container-fluid {
+  background-color: rgb(229, 218, 93);
+}
+.img-fluid {
+  display: block;
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 300px;
+  height: auto;
+}
